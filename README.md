@@ -1,8 +1,13 @@
-# SwitchBot API
+# SwitchBot API(スイッチボットAPI)
 
-- [SwitchBot API](#switchbot-api)
-  - [Introduction](#introduction)
-  - [Getting Started](#getting-started)
+:::note info
+インフォメーション
+infoは省略可能です。
+:::
+
+- [Switchbot API](#switchbot-api)
+  - [導入(序説)](#導入(序説))
+  - [さあ始めよう](#getting-started)
   - [Authentication](#authentication)
     - [Open Token](#open-token)
   - [Glossary](#glossary)
@@ -88,10 +93,10 @@
       - [Plug Mini (US)](#plug-mini-us)
       - [Plug Mini (JP)](#plug-mini-jp)
 
-## Introduction
-This document describes a collection of SwitchBot API methods, examples, and best practices for, but not limited to, IoT hobbyists, developers, and gurus to make their own smart home programs or applications. 
+## 導入(序説)
+この文章(ドキュメント)では、独自のスマートホームプログラムやアプリケーションを作成するためのIoT愛好家、開発者、および達人のためのSwitchBot APIメソッド(目的を達成するための方式)、例文プログラム、および実践例などについて説明します。
 
-## Getting Started
+## さあ始めよう
 Please follow these steps,
 1. Download the SwitchBot app on App Store or Google Play Store
 2. Register a SwitchBot account and log in into your account
