@@ -97,10 +97,10 @@ infoは省略可能です。
 この文章(ドキュメント)では、独自のスマートホームプログラムやアプリケーションを作成するためのIoT愛好家、開発者、および達人のためのSwitchBot APIメソッド(目的を達成するための方式)、例文プログラム、および実践例などについて説明します。
 
 ## さあ始めよう
-Please follow these steps,
-1. Download the SwitchBot app on App Store or Google Play Store
-2. Register a SwitchBot account and log in into your account
-3. Generate an Open Token within the app
+次の順番にやってみましょう,
+1. Download the SwitchBotアプリをApp StoreかGooglePlayからダウンロードする
+2. SwitchBotアカウントに登録し、 その登録したアカウントにログインする
+3. 「a)からd)の順に行ってアクセストークンを生成する
 a) Go to Profile > Preference
 b) Tap App Version 10 times. Developer Options will show up
 c) Tap Developer Options
